@@ -19,6 +19,8 @@ return{
 	       "clangd",
 	       "stylua",
 	       "lua_ls",
+	       "codelldb",
+	       "rust-analyzer",
 	       "codelldb"
 	    } 
       })
