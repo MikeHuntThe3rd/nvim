@@ -21,7 +21,8 @@ return{
 	       "lua_ls",
 	       "codelldb",
 	       "rust-analyzer",
-	       "codelldb"
+	       "codelldb",
+		   "phpactor"
 	    } 
       })
       end 
@@ -52,3 +53,4 @@ return{
    end
    }
 }
+
