@@ -1,9 +1,8 @@
 return {
    {
-      "sainnhe/everforest",
-      config = function()
-	 vim.cmd.colorscheme "everforest"
-      end
+	"catppuccin/catppuccin",
+	name = "catppuccin",
+	priority = 1000
    },
    {
       "nvim-lualine/lualine.nvim",
