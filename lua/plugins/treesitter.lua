@@ -40,13 +40,12 @@ return {
                     "query",
                     "vimdoc",
                     "c",
-		    "cpp",
+		    		"cpp",
                     "java",
                     "rust",
                     "ron",
-		    "gitignore",
-		    "rust",
-		    "cpp"
+				    "gitignore",
+				    "rust"
                 },
                 incremental_selection = {
                     enable = true,
@@ -85,3 +84,4 @@ return {
         end,
     },
 }
+
